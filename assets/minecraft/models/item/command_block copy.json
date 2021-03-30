@@ -1,0 +1,10 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/command_block"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1501001}, "model": "item/trident_shard"}
+  ] 
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "front": "minecraft:block/command_block_front",
+    "back": "minecraft:block/command_block_back",
+    "side": "minecraft:block/command_block_side"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1501001}, "model": "item/trident_shard"}
+  ]
+}
